@@ -25,5 +25,5 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](https://www.boredpanda.com/blog/wp-content/uploads/2019/03/funny-dogs-stung-by-bees-17-5c877ec54bef9__700.jpg)
 
