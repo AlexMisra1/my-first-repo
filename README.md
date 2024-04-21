@@ -1,29 +1,27 @@
-# This is a large heading
+# Alex Misra
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *I Am the Danger, Skyler* by Walter Hartwell White
+- *How To Be an Annoying TV Show Character With Too Much Screen Time* by Skyler White
+- *Yeah!! Science!!* by Jesse Pinkman
 
-```
-This is
-a block
-of code
-```
+### Favorite Cities
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Albuquerque, NM
+2. Albuquerque, NM
+3. Albuquerque, NM
 
-![This is an image.](https://www.boredpanda.com/blog/wp-content/uploads/2019/03/funny-dogs-stung-by-bees-17-5c877ec54bef9__700.jpg)
+### Contact
 
+The best way to get in touch with me is by meeting me at Los Pollos Hermanos, and we can talk business from there.
+
+### A Picture of My Dog
+
+![Isn't it so cute?🥺](https://www.usatoday.com/gcdn/-mm-/ac138ae3e5d56d378a81ec1264d6a985fa02c339/c=0-0-1536-2048/local/-/media/2018/03/14/USATODAY/USATODAY/636566505390831036-yogi.jpg)
