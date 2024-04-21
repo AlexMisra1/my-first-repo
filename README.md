@@ -24,4 +24,4 @@ The best way to get in touch with me is by meeting me at Los Pollos Hermanos, an
 
 ### A Picture of My Dog
 
-![Isn't it so cute?🥺](https://www.usatoday.com/gcdn/-mm-/ac138ae3e5d56d378a81ec1264d6a985fa02c339/c=0-0-1536-2048/local/-/media/2018/03/14/USATODAY/USATODAY/636566505390831036-yogi.jpg)
+![Isn't it so cute?](https://www.usatoday.com/gcdn/-mm-/ac138ae3e5d56d378a81ec1264d6a985fa02c339/c=0-0-1536-2048/local/-/media/2018/03/14/USATODAY/USATODAY/636566505390831036-yogi.jpg)
