@@ -18,7 +18,7 @@ Three of my favorite books are:
 2. Albuquerque, NM
 3. Albuquerque, NM
 
-### Contact
+### Contact (in-person only)
 
 The best way to get in touch with me is by meeting me at Los Pollos Hermanos, and we can talk business from there.
 
