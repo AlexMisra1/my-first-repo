@@ -24,4 +24,4 @@ The best way to get in touch with me is by meeting me at Los Pollos Hermanos, an
 
 ### A Picture of My Dog (Isn't it so cute? 🥺)
 
-![askdlfjsad](https://i.kym-cdn.com/entries/icons/original/000/041/444/sdc.jpg)
+![askdlfjsad](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fuqozpcof8kt51.jpg)
